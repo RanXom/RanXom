@@ -5,11 +5,12 @@
 <h2 align="left">Hello World! I'm Shizain, a Computer Science major from India 👋</h2>
 
 <p align="left">
-🚀 Currently building <b>CodeForge</b>, a full-stack competitive coding platform inspired by LeetCode & HackerRank<br>
+🚀 Currently building <b>CodeForge</b>, a full-stack competitive coding platform inspired by LeetCode & HackerRank.<br>
 ⚡ Exploring systems programming with Rust, wrote Hecto, a text CLI text editor, and a multithreaded HTTP web server from scratch.<br>
-🌍 Actively contributing to <b>open-source projects</b> like <a href="https://github.com/0xsambit/winix">Winix</a><br>
-🎓 Pursuing B.Tech in Computer Science & Engineering at COER University, Roorkee (CGPA: 8.75)<br>
-👨🏼‍💻 Leading the <b>Competitive Coding Club</b>, mentoring peers and organizing events<br>
+🌍 Actively contributing to <b>open-source projects</b> like <a href="https://github.com/0xsambit/winix">Winix</a>.<br>
+🎓 Pursuing B.Tech in Computer Science & Engineering at COER University, Roorkee (CGPA: 8.75).<br>
+👨🏼‍💻 Leading the <b>Competitive Coding Club</b>, mentoring peers and organizing events.<br>
+🐧 Oh, and… I use <b>Arch Linux</b>, btw.<br>
 </p>
 
 <h2 align="left">💻 Tech Stack:</h2>
