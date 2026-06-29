@@ -10,8 +10,6 @@ i enjoy building software close to the system—from terminal applications and l
 
 currently obsessed with rust, backend engineering, databases, and everything that makes software fast, reliable, and pleasant to use.
 
----
-
 ## what i'm building
 
 - 🦀 low-level tools & terminal applications in Rust
@@ -19,8 +17,6 @@ currently obsessed with rust, backend engineering, databases, and everything tha
 - 🗄️ databases with Oracle 19c and PostgreSQL
 - 🐧 linux desktop tooling and Wayland experiments
 - ☁️ a B2B SaaS for cold outreach automation
-
----
 
 ## things i've built
 
@@ -30,8 +26,6 @@ currently obsessed with rust, backend engineering, databases, and everything tha
 - a B2B SaaS for designing, generating, and sending certificates at scale (visit [Certly](https://www.certly.studio))
 - backend APIs and authentication systems
 
----
-
 ## environment
 
 - Neovim + tmux
@@ -39,8 +33,6 @@ currently obsessed with rust, backend engineering, databases, and everything tha
 - Git
 - Docker
 - GitHub & GitHub Actions
-
----
 
 ## tech
 
@@ -59,7 +51,5 @@ currently obsessed with rust, backend engineering, databases, and everything tha
 <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" height="30"/>
 
 </div>
-
----
 
 > i use cachyos btw.
