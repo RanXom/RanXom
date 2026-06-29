@@ -1,4 +1,3 @@
-```md
 <div align="center">
   <img src="banner.jpg" alt="banner"/>
 </div>
@@ -64,4 +63,3 @@ currently obsessed with rust, backend engineering, databases, and everything tha
 ---
 
 > i use cachyos btw.
-```
