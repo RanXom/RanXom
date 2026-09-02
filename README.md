@@ -12,20 +12,20 @@ currently focused on backend engineering, systems programming, databases, and bu
 
 ## what i'm building
 
-* 🐹 backend services and systems in Go & Java
+* ⚙️ backend services and systems in Go & Java
 * 🦀 low-level tools and systems programming in Rust
 * 🗄️ database-driven applications with PostgreSQL & Oracle
 * 🐧 linux tooling and desktop experiments
 * ☁️ a B2B SaaS for cold outreach automation
+* 🖥️ a toy x86 operating system kernel written in Rust
 
 ## things i've built
 
-* 📷 **[galleryd](https://github.com/RanXom/galleryd)** — lightweight self-hosted photo gallery backend written in Go
-* 🔐 **[Zentry](https://github.com/RanXom/zentry)** — enterprise identity & access management system with Spring Boot
-* 🦀 a toy x86 operating system kernel written in Rust
-* ✏️ a text editor written from scratch
-* 🍅 **[Pomoru](https://github.com/RanXom/pomoru)** — terminal Pomodoro application available on the AUR
-* 🎓 **[Certly](https://www.certly.studio)** — B2B SaaS for designing, generating, and distributing certificates at scale
+* **[galleryd](https://github.com/RanXom/galleryd)** — lightweight self-hosted photo gallery backend written in Go
+* **[Pomoru](https://github.com/RanXom/pomoru)** — terminal Pomodoro application available on the AUR
+* **[Certly](https://www.certly.studio)** — B2B SaaS for designing, generating, and distributing certificates at scale
+* **[Zentry](https://github.com/RanXom/zentry)** — enterprise identity & access management system with Spring Boot
+* **[hecto](https://github.com/RanXom/hecto)** ― a text editor written from scratch
 
 ## environment
 
